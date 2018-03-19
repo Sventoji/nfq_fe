@@ -1,0 +1,64 @@
+.container {
+    
+    background-color: #fff;
+    min-height: 100vh;   
+    padding: 30px;
+}
+
+body {
+    
+    background: #fff;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.HeaderMain {
+    
+    color: #627d81;
+    font-size: 50px;
+}
+
+h2, 
+li {
+    
+    color: #fc9b0a;
+}
+
+p {
+    
+    color: #44484f;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    
+    color:#93a6c4;
+}
+   
+
+.u-linkComplex,
+.u-linkComplex:hover,
+.u-linkComplex:focus,
+.u-linkComplex:active {
+    
+    text-decoration: underline!important;
+}
+
+.aboutus {
+
+    padding-left: 20px;
+}
+
+.arow {
+    
+    color: #f2bc65;
+    display: flex;
+}
+
+.faq {
+    
+    padding-left:0;
+
+}
